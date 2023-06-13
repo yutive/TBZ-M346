@@ -29,3 +29,7 @@
 ![[laurin-2.png]]
 ![[details.png]]
 # Cloud-init Datei Verstehen
+![[cloud-init.png]]
+![[instance-info.png]]
+![[key-1.png]]
+![[key-2.png]]

@@ -6,7 +6,7 @@ users: # Collection uf users
     home: /home/ubuntu # home path
     shell: /bin/bash # the path for the shell
     ssh_authorized_keys:
-      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0WGP1EZykEtv5YGC9nMiPFW3U3DmZNzKFO5nEu6uozEHh4jLZzPNHSrfFTuQ2GnRDSt+XbOtTLdcj26+iPNiFoFha42aCIzYjt6V8Z+SQ9pzF4jPPzxwXfDdkEWylgoNnZ+4MG1lNFqa8aO7F62tX0Yj5khjC0Bs7Mb2cHLx1XZaxJV6qSaulDuBbLYe8QUZXkMc7wmob3PM0kflfolR3LE7LResIHWa4j4FL6r5cQmFlDU2BDPpKMFMGUfRSFiUtaWBNXFOWHQBC2+uKmuMPYP4vJC9sBgqMvPN/X2KyemqdMvdKXnCfrzadHuSSJYEzD64Cve5Zl9yVvY4AqyBD aws-key # public key
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCqZ8EfM/SEsznA2MaO4kt2PQ9hLOnRQdO1Dj2u57HmLyRDPnpijI1o21+P1K2176sE13+77BBM4tfVy1hUZEHtT/qBywN4sgzG0HVMnKHMBPG2znBuftTk7vhgw8DC1VXM55a9FbZk6d5BQNg2IeUgffR7M+yRK3+odSapWcSmjfc+gMF9EaPeWfQTzOc+6Q9I/aP4rmuYpXCouZD15v9Xm4ctzJaLqzljeo7D9CTzXqHL1buZ+Mb9g+Iu9gtG0Bk0wiEaFIkMpNNl4fo6k+lPfaRjtWEbwaRy7JH6vAg3e3NunOcRn/vsR9UZ+iLtSmornqVlM5MOtDCQzBRKFzur aws-key # public key
 ssh_pwauth: false # disable password authentication
 disable_root: false # enable root
 package_update: true # enable package update
