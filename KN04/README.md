@@ -1,5 +1,3 @@
-
-
 ## Subnetz: Screenshot und Begleittext. Zeigen Sie, dass Sie das neue Subnetz erstellt haben.
 
 ![](subnet.png)
@@ -26,9 +24,8 @@ Ich erstellte zwei Security Groups. Eine für den Web Server namens "WebServer" 
 
 ## Netzwerk-Interfaces: Screenshots und Begleittext. Zeigen Sie die private und öffentliche IP und diezugewiesene Security-Gruppe
 ![](network-interface.png)
-![](network-interface-db.png)
+![](network-interface-database.png)
 ![](network-interface-web.png)
-
 ## Laden Sie die aktualisierten Cloud-init Konfigurationen hoch in Git. Im Web-Konfig, sollte die IP angepasst sein.
 ![Cloud-init File](cloud-init-web.yaml)
 
